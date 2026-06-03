@@ -50,3 +50,6 @@ Space	重播目前單字
 中文解釋
 
 儲存後會更新單字資料並寫回 WordCards.txt。
+
+<img width="665" height="387" alt="image" src="https://github.com/user-attachments/assets/bc003d3a-0a61-45be-ae33-c7c67ae16a34" />
+
