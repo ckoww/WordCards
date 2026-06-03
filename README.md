@@ -2,6 +2,9 @@
 這是英文單字學習系統，提供單字瀏覽、發音播放、自動播放及單字編輯等功能，幫助使用者透過單字卡方式學習英文單字。
 系統會從單字檔載入資料，並利用Windows Media Player元件播放單字發音。
 
+
+<img width="665" height="387" alt="image" src="https://github.com/user-attachments/assets/bc003d3a-0a61-45be-ae33-c7c67ae16a34" />
+
 主要功能
 1. 載入單字資料
 
@@ -51,5 +54,5 @@ Space	重播目前單字
 
 儲存後會更新單字資料並寫回 WordCards.txt。
 
-<img width="665" height="387" alt="image" src="https://github.com/user-attachments/assets/bc003d3a-0a61-45be-ae33-c7c67ae16a34" />
+<img width="317" height="495" alt="image" src="https://github.com/user-attachments/assets/793f9730-63b3-4658-85b9-d761c9c19ef8" />
 
