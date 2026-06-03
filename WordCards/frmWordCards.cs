@@ -84,7 +84,7 @@ namespace WordCards
             }
         }
         /// <summary>
-        /// 播放單字音檔
+        /// 播放單字音檔 
         /// </summary>
         /// <param name="word">單字物件</param>
         private void PlayWord(WordItem word)
