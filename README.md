@@ -34,8 +34,8 @@ WordCards.txt
 
 5. 鍵盤快捷鍵
 
-按鍵	功能
 Enter	播放下一個單字
+
 Space	重播目前單字
 
 6. 編輯單字
